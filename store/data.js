@@ -31,7 +31,7 @@ module.exports = {
   },
 
   king: {
-    firstName: 'Bo',
+    firstName: 'Boo',
     lastName: 'Hansson',
     genre: 'Rock',
   },
